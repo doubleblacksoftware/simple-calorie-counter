@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simple Calorie Counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_settings_category">App Settings</string>
+    <string name="setting_goal_is_minimum">Target is minimum</string>
+    <string name="preference_goal_is_minimum_summary">You want to eat at least this many calories</string>
+    <string name="preference_goal_is_minimum_title">Goal is minimum</string>
+    <string name="preference_calorie_goal_dialog_title">Calories</string>
+    <string name="preference_calorie_goal_summary">The number of calories you want to stay over/under</string>
+    <string name="preference_calorie_goal_title">Calories</string>
+    <string name="action_export">Export</string>
+    <string name="action_import">Import</string>
+    <string name="action_pick_date">Go to date</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="menu">Menu</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_menu_titles">
+        <item>Calories</item>
+        <item>Graph</item>
+        <item>Settings</item>
+    </string-array>
+</resources>

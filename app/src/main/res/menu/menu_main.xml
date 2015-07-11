@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <!--<item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />-->
+    <item
+        android:id="@+id/action_export"
+        android:title="@string/action_export"
+        android:orderInCategory="101"
+        android:icon="@drawable/upload32" />
+    <item
+        android:id="@+id/action_import"
+        android:title="@string/action_import"
+        android:orderInCategory="102"
+        android:icon="@drawable/download32" />
+    <item
+        android:id="@+id/action_pick_date"
+        android:title="@string/action_pick_date"
+        android:orderInCategory="100"
+        android:icon="@drawable/paperpencil32" />
+</menu>
