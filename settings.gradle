@@ -1,0 +1,1 @@
+include ':app', ':androidsupportv4preferencefragmentmaster', ':material-calculator'
